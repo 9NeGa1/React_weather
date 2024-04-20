@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/React_weather/static/css/main.1c429153.css",
+    "main.js": "/React_weather/static/js/main.349e6251.js",
+    "static/media/clouds 1.svg": "/React_weather/static/media/clouds 1.3042acbade5c9b996d7ded84727a070a.svg",
+    "static/media/clouds 2.svg": "/React_weather/static/media/clouds 2.5182cfb2632b4bfee4c3b06f8f3c0443.svg",
+    "static/media/mist 1.svg": "/React_weather/static/media/mist 1.7b9e3d6f79b3baada52e5aac5dd1e68b.svg",
+    "static/media/drizzle 1.svg": "/React_weather/static/media/drizzle 1.c26b28e4e1ec6627c87a602b44f02185.svg",
+    "static/media/clear 2.svg": "/React_weather/static/media/clear 2.1e06645aaee42b386322e2008df430ad.svg",
+    "static/media/clear 3.svg": "/React_weather/static/media/clear 3.21fec3f1c5444475ea4fc00d02489bd4.svg",
+    "static/media/rain 1.svg": "/React_weather/static/media/rain 1.74e5ce343e71f67160298632b2f1ec3e.svg",
+    "static/media/snow.svg": "/React_weather/static/media/snow.a4087ae125136a565958eba8c6766403.svg",
+    "static/media/wind 1.svg": "/React_weather/static/media/wind 1.60c577a03bc7b7636f420878047983fc.svg",
+    "static/media/uv-white 1.svg": "/React_weather/static/media/uv-white 1.36cc5a8ae3ba621e1e47a5f240055c6f.svg",
+    "static/media/humidity 1.svg": "/React_weather/static/media/humidity 1.b9f1af9efed8d6422d656d71f92f81e6.svg",
+    "static/media/pressure-white 1.svg": "/React_weather/static/media/pressure-white 1.a7f0f918026ba9365fd173b4fc5373e6.svg",
+    "static/media/search.svg": "/React_weather/static/media/search.a0d0d2f27e75324c489b7644cad1332a.svg",
+    "static/media/current location icon.svg": "/React_weather/static/media/current location icon.fd71886f438c7f191a6ddf217c83efff.svg",
+    "static/media/navigation_right.svg": "/React_weather/static/media/navigation_right.3ab2ac1aab370f6570b8a41fed891b98.svg",
+    "static/media/navigation_left.svg": "/React_weather/static/media/navigation_left.a242b7b0e01b32d01d2a01075f7a9c3b.svg",
+    "static/media/sunrise.svg": "/React_weather/static/media/sunrise.55466f9c94d80f06141f124688ff6d95.svg",
+    "static/media/sunset-white 1.svg": "/React_weather/static/media/sunset-white 1.fd8be80fcb7c7a521b1750ec7d6116c4.svg",
+    "static/media/navigation_default.svg": "/React_weather/static/media/navigation_default.f9194ff97df9a24f432d24b2c4b9625f.svg",
+    "index.html": "/React_weather/index.html",
+    "static/media/inputCancel.svg": "/React_weather/static/media/inputCancel.8afdbacff75796969c007dfd561d14b2.svg",
+    "main.1c429153.css.map": "/React_weather/static/css/main.1c429153.css.map",
+    "main.349e6251.js.map": "/React_weather/static/js/main.349e6251.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c429153.css",
+    "static/js/main.349e6251.js"
+  ]
+}
